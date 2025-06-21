@@ -1,23 +1,23 @@
-💻 AI-Integrated Terminal
+💻 AI-Integrated Terminal -
 An intelligent terminal emulator enhanced with machine learning and generative AI, offering real-time command suggestions, autocompletion, and chatbot assistance—seamlessly integrated into your development workflow.
 
-🚀 Features
-⚙️ AI-based Command Suggestions
+🚀 Features -
+AI-based Command Suggestions :
 Predicts and autocompletes terminal commands using a trained Random Forest model.
 
-💬 Integrated Gemini Chatbot
+Integrated Gemini Chatbot :
 Provides real-time help and guidance for commands, errors, and general queries.
 
-📂 Context-Aware Input
+Context-Aware Input :
 Suggestions adapt based on working directory, command history, and file types.
 
-🧠 Personalized Learning
+Personalized Learning :
 Learns from user behavior over time to improve accuracy and relevance.
 
-🖥️ VS Code Terminal Integration
+VS Code Terminal Integration :
 Enables direct AI-powered interactions within your coding environment.
 
-🛠️ Tech Stack
+🛠️ Tech Stack -
 Python 3.11
 
 PyQt5 (for GUI)
